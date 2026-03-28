@@ -22,7 +22,8 @@ This project analyzes e-commerce sales data to identify trends in sales, product
 - Excel / Python (for cleaning)
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](<img width="3141" height="1788" alt="Screenshot 2026-03-28 125007" src="https://github.com/user-attachments/assets/dc3afbfe-404d-4054-8c22-70c7bf316a3e" />)
+
 
 ## 📈 Key Insights
 - Tablets generated highest sales
