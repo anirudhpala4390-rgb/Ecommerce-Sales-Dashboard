@@ -36,4 +36,4 @@ This project analyzes e-commerce sales data to identify trends in sales, product
 - Explore filters (State, Payment Method, Status)
 
 ## 📬 Contact
-LinkedIn: (your link)
+LinkedIn: https://www.linkedin.com/in/anirudh-pala-5b5859352/
